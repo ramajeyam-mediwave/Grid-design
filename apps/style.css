@@ -23,17 +23,19 @@ body{
         color: #fff;
         padding: 10px 20px;
         border: none;
-        border-radius: 30px;
+        border-radius: 50px;
         cursor: pointer;
         font-size: 16px;
         position: relative;
         right: -0.5px;
+        size: ;
         }
 .price{
     text-align: left;
 }
 h3{
     color: black;
+    
 }
 p{
     text-align: left;
@@ -55,12 +57,26 @@ p{
 .combine{
     display: flex;
     position: relative;
+    
+    
+
 }
 
 p{
     font-size: xx-large;
 }
-h3
+.combine2{
+    display: block;
+    text-align: end;
+    height: 100px;
+    right: auto;
+    
+}
+
+.doller{
+    font-size: large;
+}
+
 
 
 
